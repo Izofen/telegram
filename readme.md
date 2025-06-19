@@ -1,7 +1,6 @@
 
 ## Список телеграм каталогов 
 
->>>>>>> fbfbe753c47b0d8d89e6dd48c78ef2e3237c18e7
 - [NNM-CLUB | Сборник торрент рассылки V 7.0](https://t.me/nnmclub_v7)
 - [NNM-CLUB | Сборник торрент рассылки V 3.0](https://t.me/nnm_club_aA123_v3)
 - [NNM-CLUB | Сборник торрент рассылки V 5.0](https://t.me/nnmclub_v5)
